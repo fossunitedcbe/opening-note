@@ -5,7 +5,10 @@
   "scripts": {
     "build": "slidev build",
     "dev": "slidev --open",
-    "export": "slidev export --format png --dark"
+    "export:png": "slidev export --format png --dark",
+    "export:ppt": "slidev export --format pptx --dark",
+    "export:pdf": "slidev export --format pdf --dark",
+    "export": "pnpm export:png && pnpm export:ppt && pnpm export:pdf"
   },
   "dependencies": {
     "@slidev/cli": "^52.11.3",
