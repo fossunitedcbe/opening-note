@@ -1,11 +1,18 @@
-# Welcome to [Slidev](https://github.com/slidevjs/slidev)!
+# FOSS United Opening Note - 2026
 
-To start the slide show:
-
-- `pnpm install`
-- `pnpm dev`
-- visit <http://localhost:3030>
-
-Edit the [slides.md](./slides.md) to see the changes.
-
-Learn more about Slidev at the [documentation](https://sli.dev/).
+![Cover](./slides-export/1.png)
+![Cover](./slides-export/2.png)
+![Cover](./slides-export/3.png)
+![Cover](./slides-export/4.png)
+![Cover](./slides-export/5.png)
+![Cover](./slides-export/6.png)
+![Cover](./slides-export/7.png)
+![Cover](./slides-export/8.png)
+![Cover](./slides-export/9.png)
+![Cover](./slides-export/10.png)
+![Cover](./slides-export/11.png)
+![Cover](./slides-export/12.png)
+![Cover](./slides-export/13.png)
+![Cover](./slides-export/14.png)
+![Cover](./slides-export/15.png)
+![Cover](./slides-export/16.png)

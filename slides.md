@@ -10,24 +10,20 @@ drawings:
 transition: slide-left
 title: Welcome to FOSS United
 layout: cover
+logo: /assets/logos/coimbatore.svg
 ---
 
-# Welcome to FOSS United Event
+# FOSS United
 
 Growing India's FOSS Ecosystem
 
 <EventMeta
   event="FOSS United Meetup" 
-  city="Your City" 
+  city="Coimbatore" 
   date="January 2026" 
 />
 
-<div class="pt-12">
-  <span @click="$slidev.nav.next" class="px-2 py-1 rounded cursor-pointer" flex="~ justify-center items-center gap-2" hover="bg-white bg-opacity-10">
-    Press Space for next page <div class="i-carbon:arrow-right inline-block"/>
-  </span>
-</div>
-
+<img src="/assets/logos/coimbatore-square.svg" class="absolute bottom-[-1.5px] left-136 w-110 h-110" alt="Coimbatore FOSS United">
 ---
 layout: default
 ---
