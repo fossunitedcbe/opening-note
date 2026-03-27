@@ -18,9 +18,9 @@ logo: /logos/coimbatore.svg
 Growing India's FOSS Ecosystem
 
 <EventMeta
-  event="FOSS United Meetup" 
-  city="Coimbatore" 
-  date="January 2026" 
+  event="Monthly Meetup" 
+  city="iamneo.ai, Coimbatore" 
+  date="March 2026" 
 />
 
 <img src="/logos/coimbatore-square.svg" class="absolute bottom-[-1.5px] left-136 w-110 h-110" alt="Coimbatore FOSS United">

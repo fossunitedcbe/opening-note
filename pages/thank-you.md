@@ -1,6 +1,7 @@
 ---
 layout: section
 ---
+
 # Thank You!
 
 Join the community at [fossunited.org](https://fossunited.org) 
